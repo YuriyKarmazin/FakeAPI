@@ -1,4 +1,5 @@
-[
+{
+      "images": [
       {
         "id": 1,
         "src": "blob:https://web.telegram.org/c14effb6-c72c-4f01-90d8-0420c0251556",
@@ -17,5 +18,6 @@
         "alt": "IMG3",
         "url": "http://reactpr1.zzz.com.ua/pizzas"
       }
-]
+   ]
+}
   
